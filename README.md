@@ -158,7 +158,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🆘 Support
 
-For support, email [your-email] or create an issue in the repository.
+For support, create an issue in the repository.
 
 ## 🙏 Acknowledgments
 
